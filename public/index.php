@@ -5,6 +5,6 @@ echo "안녕하세요.";
 include "../vendor/autoload.php";
 
 //클래스의 객체를 생성
-$obj = new \Modules\Jiny\Hello;
+$obj = new \Modules\Howon\Hello;
 $obj->greeting();
 
