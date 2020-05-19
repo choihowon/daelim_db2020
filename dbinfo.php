@@ -1,7 +1,8 @@
 <?php
-return[
+return [
     'user'=>"db2020",
     'password'=>"123456",
-    'schema'=>"localhost",
-    'charest'=>"utf8"
+    'schema'=>"shop",
+    'host'=>"localhost",
+    'charset'=>"utf8"
 ];

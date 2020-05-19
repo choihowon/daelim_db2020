@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit9b3d2fbe79582856286ca9b3ceb1364a
 {
     public static $files = array (
+        'a6e27c98c00945ead28d695037bfc102' => __DIR__ . '/..' . '/jiny/mysql/src/Helpers/Helper.php',
         '9f2ca8d9a238e4c80d25576e2bfa4cb3' => __DIR__ . '/../..' . '/Modules/helper.php',
     );
 
@@ -14,6 +15,10 @@ class ComposerStaticInit9b3d2fbe79582856286ca9b3ceb1364a
         'M' => 
         array (
             'Modules\\' => 8,
+        ),
+        'J' => 
+        array (
+            'Jiny\\Mysql\\' => 11,
         ),
         'A' => 
         array (
@@ -25,6 +30,10 @@ class ComposerStaticInit9b3d2fbe79582856286ca9b3ceb1364a
         'Modules\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Modules',
+        ),
+        'Jiny\\Mysql\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/jiny/mysql/src',
         ),
         'App\\' => 
         array (
